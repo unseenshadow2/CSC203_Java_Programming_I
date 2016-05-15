@@ -1,0 +1,21 @@
+/*
+ * Project: 	God Damned Hello World
+ * Author:		Anthony Parsch Jr.
+ * Purpose:
+ * Fucking noob shit.
+ */
+
+public class HelloWorld 
+{
+	public static void main (String[] args)
+	{
+		print("Fuck this whole...");
+		print("Hello world thing.");
+	}
+	
+	public static void print (String strIn)
+	{
+		// Printing shit to the terminal
+		System.out.println(strIn);
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.parsch.Utilities&apos; to &apos;ABigTest/src&apos;&#x0A;- Original project: &apos;DuttieCalls&apos;&#x0A;- Destination element: &apos;ABigTest/src&apos;&#x0A;- Original element: &apos;DuttieCalls/src/com.parsch.Utilities&apos;" description="Copy package" destination="=ABigTest/src" element1="/src&lt;com.parsch.Utilities" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1441411509312" version="1.0"/>
+</session>
