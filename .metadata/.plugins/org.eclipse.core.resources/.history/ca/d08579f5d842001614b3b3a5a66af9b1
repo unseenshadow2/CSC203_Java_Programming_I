@@ -1,0 +1,6 @@
+package com.parsch.anthony;
+
+public class BankAccount 
+{
+	private String AccountNumber;
+}
