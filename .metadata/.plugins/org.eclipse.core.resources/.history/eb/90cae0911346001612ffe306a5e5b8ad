@@ -1,0 +1,39 @@
+package com.parsch.anthony;
+
+public class BankAccount 
+{
+	private String accountNumber;
+	private float currentBalance;
+	
+	public String accountHolder;
+	
+	/**
+	 * The constructor for BankAccount. Gets the account number on creation.
+	 * 
+	 * @param accountNumber The string referring to the series of numbers associated with the account
+	 */
+	public BankAccount (String accountNumber)
+	{
+		this.accountNumber = accountNumber;
+	}
+	
+	public void deposit (float change)
+	{
+		currentBalance += change;
+	}
+	
+	public void withdrawl (float change)
+	{
+		currentBalance -= change;
+	}
+	
+	public String getAccountNumber()
+	{
+		return accountNumber;
+	}
+	
+	public float getCurrentBalance()
+	{
+		return currentBalance;
+	}
+}
