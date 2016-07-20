@@ -1,0 +1,12 @@
+package com.parsch.anthony;
+
+public class Friend extends Contact 
+{
+	// Public Variables
+	
+	// Protected Variables
+	protected String emailAddress;
+	protected String birthDate;
+	
+	// Private Variables
+}

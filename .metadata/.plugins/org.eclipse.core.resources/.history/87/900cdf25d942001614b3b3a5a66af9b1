@@ -1,9 +1,0 @@
-package com.parsch.anthony;
-
-public class BankAccount 
-{
-	private String AccountNumber;
-	private float CurrentBalance;
-	
-	public String AccountHolder;
-}

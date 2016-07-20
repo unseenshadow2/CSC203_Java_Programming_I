@@ -1,0 +1,6 @@
+package com.parsch.anthony;
+
+public class Friend extends Contact 
+{
+
+}

@@ -1,0 +1,24 @@
+package com.parsch.anthony;
+
+public class Address 
+{
+	// Public Variables
+	
+	// Protected Variables
+	protected String street;
+	protected String city;
+	protected String state;
+	protected String zip;
+	
+	// Private Variables
+	
+	public String getStreet()
+	{
+		return street;
+	}
+	
+	public void setStreet(String newStreet)
+	{
+		street = newStreet;
+	}
+}
